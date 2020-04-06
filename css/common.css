@@ -1,0 +1,21 @@
+/*公共的样式*/
+/*样式重置*/
+*{margin:0;padding: 0;}
+body{
+    background:#FFFFFF;
+    color: #684029;
+}
+ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+.tc{
+    text-align: center;
+}
+.l{
+    float: left;
+}
+.r{
+    float: right;
+}
